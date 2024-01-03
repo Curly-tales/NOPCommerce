@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOPCommerce", "NOPCommerce\NOPCommerce.csproj", "{4288AB7A-DF41-4288-A1CF-DFF7B705FC0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{8B336CD4-7E97-4FE1-85AE-99C5F8944606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4288AB7A-DF41-4288-A1CF-DFF7B705FC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4288AB7A-DF41-4288-A1CF-DFF7B705FC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4288AB7A-DF41-4288-A1CF-DFF7B705FC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B336CD4-7E97-4FE1-85AE-99C5F8944606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B336CD4-7E97-4FE1-85AE-99C5F8944606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B336CD4-7E97-4FE1-85AE-99C5F8944606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B336CD4-7E97-4FE1-85AE-99C5F8944606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
